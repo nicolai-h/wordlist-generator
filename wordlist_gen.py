@@ -12,7 +12,7 @@ filename = ""
 min_len = 0
 max_len = 0
 char_set = string.ascii_letters + string.digits + string.punctuation
-help_text = """wordlist-generator 0.1 ( github )
+help_text = """wordlist-generator 0.1 ( https://github.com/nicolai-h/wordlist-generator )
 USAGE:
 wordlist-generator -s <min_len> -l <max_len> [options]
 OPTIONS:
