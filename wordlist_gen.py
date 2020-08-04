@@ -26,6 +26,7 @@ minimum length: 0
 maximum length: 0
 character set: 0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!"#$%&'()*+,-./:;<=>?@[\]^_`{|}~ 
 output: by default the generated words will be printed out to the terminal
+EXAMPLE USAGE:
 generate-wordlist -s 2 -l 4 -c abcd -o test.txt
 """
 
